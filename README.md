@@ -60,7 +60,8 @@
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AAbdullahsalim&theme=matrix&no-frame=true&no-bg=true&margin-w=20&margin-h=20&column=6)
+![](https://github-profile-trophy.vercel.app/?username=AAbdullahsalim&theme=tokyonight&no-frame=true&margin-w=20&margin-h=20&column=7)
+
 
 
 ---
