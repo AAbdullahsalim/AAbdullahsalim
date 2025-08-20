@@ -39,12 +39,45 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-90EE90.svg?style=for-the-badge&logo=scikit-learn&logoColor=black)
 ![Scipy](https://img.shields.io/badge/SciPy-90EE90.svg?style=for-the-badge&logo=scipy&logoColor=black)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AAbdullahsalim&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AAbdullahsalim&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AAbdullahsalim&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 📊 GitHub Stats & Analytics:
+
+<!-- Profile Stats -->
+![](https://github-readme-stats.vercel.app/api?username=AAbdullahsalim&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
+
+<!-- Streak Stats -->
+![](https://streak-stats.demolab.com?user=AAbdullahsalim&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)<br/>
+
+<!-- Top Languages -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AAbdullahsalim&theme=tokyonight&hide_border=false&layout=compact&langs_count=10)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AAbdullahsalim&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 📈 Contribution Activity
+
+<!-- Contribution Graph -->
+![](https://github-readme-activity-graph.vercel.app/graph?username=AAbdullahsalim&theme=tokyo-night&hide_border=false)
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AAbdullahsalim&theme=tokyonight&no-frame=false&no-bg=false&margin-w=15)
+
+---
+
+## 🔥 Productivity Breakdown
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AAbdullahsalim&theme=tokyonight&utcOffset=5)
+
+---
+
+## 📊 Extra Stats
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AAbdullahsalim&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AAbdullahsalim&theme=tokyonight)<br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AAbdullahsalim&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AAbdullahsalim&theme=tokyonight)
+
+---
+
+## 👀 Profile Visitors
+[![](https://visitcount.itsvg.in/api?id=AAbdullahsalim&icon=2&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
