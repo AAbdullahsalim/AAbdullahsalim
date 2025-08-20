@@ -3,7 +3,11 @@
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Abdullah Salim) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aabdullah_salim) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Abdullah Salim](https://www.linkedin.com/in/abdullah-salim-9b223331b/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aabdullahsalimm24@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-00FFFF?style=for-the-badge&logo=Facebook&logoColor=black)](https://facebook.com/AbdullahSalim)
+[![Instagram](https://img.shields.io/badge/Instagram-00FFFF?style=for-the-badge&logo=Instagram&logoColor=black)](https://instagram.com/aabdullah_salim)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/abdullah-salim-9b223331b/)
+[![Email](https://img.shields.io/badge/Email-00FFFF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:aabdullahsalimm24@gmail.com)
+ 
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-90EE90.svg?style=for-the-badge&logo=csharp&logoColor=black)
