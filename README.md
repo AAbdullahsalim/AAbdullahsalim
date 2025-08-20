@@ -58,9 +58,9 @@
 ![](https://github-readme-activity-graph.vercel.app/graph?username=AAbdullahsalim&theme=tokyo-night&hide_border=false)
 
 ---
-
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AAbdullahsalim&theme=tokyonight&no-frame=true&margin-w=20&margin-h=20&column=7)
+![](https://github-profile-trophy.vercel.app/?username=AAbdullahsalim&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=6)
+
 
 
 
