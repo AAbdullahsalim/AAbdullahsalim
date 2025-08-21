@@ -48,10 +48,10 @@
 
 
 <!-- Top Languages -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AAbdullahsalim&theme=tokyonight&hide_border=false&layout=compact&langs_count=10)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AAbdullahsalim&theme=tokyonight&hide_border=false&layout=compact&langs_count=10) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AAbdullahsalim&theme=tokyonight&utcOffset=5)
 
-## 🔥 Productivity Breakdown
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AAbdullahsalim&theme=tokyonight&utcOffset=5)
+
+
 
 ---
 
