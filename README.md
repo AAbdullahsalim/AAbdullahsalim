@@ -3,14 +3,14 @@
 
 
 
- Socials:
+ #Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-00FFFF?style=for-the-badge&logo=Facebook&logoColor=black)](https://facebook.com/AbdullahSalim)
 [![Instagram](https://img.shields.io/badge/Instagram-00FFFF?style=for-the-badge&logo=Instagram&logoColor=black)](https://instagram.com/aabdullah_salim)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/abdullah-salim-9b223331b/)
 [![Email](https://img.shields.io/badge/Email-00FFFF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:aabdullahsalimm24@gmail.com)
  
 
- Tech Stack:
+ #Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-90EE90.svg?style=for-the-badge&logo=csharp&logoColor=black)
 ![C++](https://img.shields.io/badge/c++-90EE90.svg?style=for-the-badge&logo=c%2B%2B&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/javascript-90EE90.svg?style=for-the-badge&logo=javascript&logoColor=black)
