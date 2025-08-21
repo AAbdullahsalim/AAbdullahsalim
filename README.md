@@ -42,25 +42,16 @@
 # 📊 GitHub Stats & Analytics:
 
 <!-- Profile Stats -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AAbdullahsalim&theme=tokyonight)<br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AAbdullahsalim&theme=tokyonight) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AAbdullahsalim&theme=tokyonight)<br/>
 <!-- Contribution Graph -->
 ![](https://github-readme-activity-graph.vercel.app/graph?username=AAbdullahsalim&theme=tokyo-night&hide_border=false)
 
 
 <!-- Top Languages -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AAbdullahsalim&theme=tokyonight&hide_border=false&layout=compact&langs_count=10)   ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AAbdullahsalim&theme=tokyonight&utcOffset=5) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AAbdullahsalim&theme=tokyonight)
-
-
-
-
----
-
-## 📊 Extra Stats
-
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AAbdullahsalim&theme=tokyonight&hide_border=false&layout=compact&langs_count=10)   ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AAbdullahsalim&theme=tokyonight&utcOffset=5)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AAbdullahsalim&theme=tokyonight)
 
----
+
 
 
 
