@@ -43,29 +43,12 @@
 
 <!-- Profile Stats -->
 ![](https://github-readme-stats.vercel.app/api?username=AAbdullahsalim&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
-
-<!-- Streak Stats -->
-![](https://streak-stats.demolab.com?user=AAbdullahsalim&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)<br/>
-
-<!-- Top Languages -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AAbdullahsalim&theme=tokyonight&hide_border=false&layout=compact&langs_count=10)
-
----
-
-## 📈 Contribution Activity
-
 <!-- Contribution Graph -->
 ![](https://github-readme-activity-graph.vercel.app/graph?username=AAbdullahsalim&theme=tokyo-night&hide_border=false)
 
----
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AAbdullahsalim&theme=onedark&no-frame=true&no-bg=true&margin-w=20&margin-h=20&column=6&title=Commits,Repositories,PullRequest,Experience)
 
-
-
-
-
----
+<!-- Top Languages -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AAbdullahsalim&theme=tokyonight&hide_border=false&layout=compact&langs_count=10)
 
 ## 🔥 Productivity Breakdown
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AAbdullahsalim&theme=tokyonight&utcOffset=5)
