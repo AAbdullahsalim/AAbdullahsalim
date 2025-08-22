@@ -19,12 +19,13 @@
 ![CSS3](https://img.shields.io/badge/css3-90EE90.svg?style=for-the-badge&logo=css3&logoColor=black)
 
 # 📊 GitHub Stats & Analytics:
-<div align="center">
+<div>
 
   <!-- Stats Cards -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AAbdullahsalim&theme=tokyonight" height="150"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AAbdullahsalim&theme=tokyonight" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAbdullahsalim&theme=tokyonight&hide_border=false&layout=compact&langs_count=5" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AAbdullahsalim&theme=tokyonight&utcOffset=5" height="150"/>
 
   
 
@@ -36,7 +37,7 @@
 
 
 <!-- Top Languages -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AAbdullahsalim&theme=tokyonight&hide_border=false&layout=compact&langs_count=10)   ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AAbdullahsalim&theme=tokyonight&utcOffset=5)
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AAbdullahsalim&theme=tokyonight&utcOffset=5)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AAbdullahsalim&theme=tokyonight)
 
 
