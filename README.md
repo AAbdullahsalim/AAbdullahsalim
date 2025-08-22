@@ -41,9 +41,17 @@
 <!--![Scipy](https://img.shields.io/badge/SciPy-90EE90.svg?style=for-the-badge&logo=scipy&logoColor=black)-->
 
 # 📊 GitHub Stats & Analytics:
+<div align="center">
 
-<!-- Profile Stats -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AAbdullahsalim&theme=tokyonight) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AAbdullahsalim&theme=tokyonight)<br/>
+  <!-- Stats Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AAbdullahsalim&theme=tokyonight" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AAbdullahsalim&theme=tokyonight" height="150"/>
+
+  
+
+</div>
+
+
 <!-- Contribution Graph -->
 ![](https://github-readme-activity-graph.vercel.app/graph?username=AAbdullahsalim&theme=tokyo-night&hide_border=false)
 
