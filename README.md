@@ -24,6 +24,7 @@
   <!-- Stats Cards -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AAbdullahsalim&theme=tokyonight" height="150"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AAbdullahsalim&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAbdullahsalim&theme=tokyonight&hide_border=false&layout=compact&langs_count=5" height="150"/>
 
   
 
