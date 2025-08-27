@@ -1,5 +1,5 @@
 
- Abdullah Salim | Full Stack Developer | Turning ideas into code with Python, JavaScript & React  Exploring AI/ML 
+ Abdullah Salim  Full Stack Developer , Turning ideas into code with Python, JavaScript & React  Exploring AI/ML 
 
 
 
